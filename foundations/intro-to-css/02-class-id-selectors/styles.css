@@ -1,0 +1,18 @@
+/* styles.cc */
+.class1 {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.class2 {
+    background-color: pink;
+    font-size: 24px;
+}
+#ID1 {
+    color: blue;
+    font-size: 36px;
+}
+#ID2 {
+    background-color:aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
